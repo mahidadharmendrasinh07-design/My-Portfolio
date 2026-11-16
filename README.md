@@ -49,8 +49,8 @@
 
         <div class="hero-image">
             <div class="profile-circle">
-                <img src="c:\Users\Shiv Shakti\Pictures\me\IMG_20261116_200204.jpg.jpeg"
-                        alt="Profile pictuer"
+                <img src="IMG_20261116_200204.jpg.jpeg"
+                        alt="Profile picture"
                         class="profile-circle">
             </div>            
         </div>
