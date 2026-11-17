@@ -208,6 +208,36 @@ header {
     gap: 22px;
 }
 
+.fa-python {
+    font-size: 38px;
+    color: green;
+}
+
+.fa-c {
+    font-size: 38px;
+    color: blue;
+}
+
+.fa-html5 {
+    font-size: 38px;
+    color: #e34c26;
+}
+
+.fa-css3-alt {
+    font-size: 38px;
+    color: #264de4;
+}
+
+.fa-js {
+    font-size: 38px;
+    color: #f7df1e;
+}
+
+.fa-lightbulb {
+    font-size: 38px;
+    color: #f1c40f;
+}
+
 .card {
     padding: 25px;
     background: white;
@@ -242,17 +272,7 @@ header {
     text-decoration: none;
 }
 
-/* YouTube */
-.youtube-box h3 {
-    color: red;
-    font-size: 25px;
-    margin-bottom: 12px;
-}
 
-.youtube-box p {
-    color: var(--text);
-    margin-bottom: 20px;
-}
 
 /* Contact */
 .contact-form {
