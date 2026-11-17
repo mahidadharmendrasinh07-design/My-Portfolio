@@ -321,13 +321,21 @@ header {
     flex-wrap: wrap;
 }
 
+.fa-whatsapp {
+    color: green;
+    font-size: 30px;
+}
+
 .fa-instagram {
+    color: #eb0d80;
     font-size: 30px; 
 }
 .fa-youtube {
+    color: red;
     font-size: 30px;
 }
 .fa-github {
+    color: black;
     font-size: 30px;
 }
 
@@ -337,7 +345,7 @@ header {
 
 
 .fa-youtube:hover {
-    color: #ff0000;
+    color: red;
 }
 
 .fa-github:hover {
