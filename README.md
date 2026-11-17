@@ -37,7 +37,11 @@
             <h1>Hello, I'm <span>Dharmendrasinh</span></h1>
             <h2>Student | programmer | Content Creator</h2>
             <p>
-                I love coding, technology and creating new digital projects.
+                મને કોડિંગ, ટેક્નોલોજી અને નવા ડિજિટલ પ્રોજેક્ટ્સ બનાવવાનો ખૂબ રસ છે.
+                હું નવી સ્કિલ્સ શીખી રહ્યો છું અને ટેક્નોલોજીના ક્ષેત્રમાં મારું ભવિષ્ય બનાવી રહ્યો છું.
+            </p>
+            <p>
+                I love coding, technology and interest new digital projects.
                 I am learning new skills and building my future in technology.
             </p>
 
@@ -62,40 +66,42 @@
         <h2 class="section-title">About Me</h2>
 
         <div class="about-box">
-            <h3>Who Am I?</h3>
+            <h3>સ્વાગત છે મિત્રો </h3>
             <p>
-                Hello! I am a student, beginner programmer and technology
-                enthusiast. I enjoy learning programming languages,
-                developing websites and creating interesting projects.
-                My goal is to become a skilled developer and entrepreneur.
-            </p>
+                હું એક કોલેજ નો વિદ્યાર્થી છું. મને કોડિંગ માં રસ હોવાથી હું ઍક ગુજરાતી કોડેર બનવા માંગુ છું. 
+                મને કોડિંગ નું થોડુંક પણ જ્ઞાન નહીં , માટે મારે ગુજરાતી કોડેર બનવા માટે બોવ જ મહેનત કરવી પડસે.
+                માટે કોડિંગ ની યાત્રા શૂન્ય થી માસ્ટરી સુધી એજ મારો ધ્યેય છે .
+            </p> 
             <p>
-                I also create technology and coding content through
-                my YouTube channel, THE GUJARATI CODER.
-            </p>
+                Welcome friends !<br>
+                I am a college student with a strong interest in coding, and I want to become a Gujarati Coder.
+                I have very little knowledge of coding right now, so I know I will have to work very hard to achieve my goal.
+                My dream is to become a skilled programmer and inspire others through my knowledge.
+                <strong>My goal is to take my coding journey from Zero to Mastery.</strong>
+            </p>         
         </div>
     </section>
 
     <!-- Skills -->
     <section class="section light-section" id="skills">
         <div class="container">
-            <p class="tag">WHAT I KNOW</p>
+            <p class="tag">WHAT IS MY GOAL</p>
             <h2 class="section-title">My Skills</h2>
 
             <div class="card-grid">
-                <div class="card"><span>🐍</span><h3>Python</h3><p>Programming basics</p></div>
-                <div class="card"><span>⚙️</span><h3>C / C++</h3><p>Programming fundamentals</p></div>
-                <div class="card"><span>🌐</span><h3>HTML</h3><p>Website structure</p></div>
-                <div class="card"><span>🎨</span><h3>CSS</h3><p>Website design</p></div>
-                <div class="card"><span>⚡</span><h3>JavaScript</h3><p>Website interactivity</p></div>
-                <div class="card"><span>💡</span><h3>Problem Solving</h3><p>Creative thinking</p></div>
+                <div class="card"><i class="fab fa-python"></i><h3>Python</h3><p>Programming basics</p></div>
+                <div class="card"><i class="fab fa-c"></i><h3>C / C++</h3><p>Programming fundamentals</p></div>
+                <div class="card"><i class="fab fa-html5"></i><h3>HTML</h3><p>Website structure</p></div>
+                <div class="card"><i class="fab fa-css3-alt"></i><h3>CSS</h3><p>Website design</p></div>
+                <div class="card"><i class="fab fa-js"></i><h3>JavaScript</h3><p>Website interactivity</p></div>
+                <div class="card"><i class="fas fa-lightbulb"></i><h3>Problem Solving</h3><p>Creative thinking</p></div>
             </div>
         </div>
     </section>
 
     <!-- Projects -->
     <section class="section container" id="projects">
-        <p class="tag">MY WORK</p>
+        <p class="tag">WHAT DID I DO ?</p>
         <h2 class="section-title">My Projects</h2>
 
         <div class="card-grid">
@@ -107,7 +113,7 @@
             </div>
 
             <div class="card project-card">
-                <span>🎯</span>
+                <span>🎰</span>
                 <h3>Number Guessing Game</h3>
                 <p>A fun number guessing game developed using Python.</p>
                 <a href="#" class="project-link">Project Link →</a>
@@ -145,36 +151,39 @@
             </div>
         </div>
     </section>
-
+S
     <!-- YouTube -->
-    <section class="section container" id="youtube">
+    <section class="section container" id="social">
         <p class="tag">MY CREATIVE WORLD</p>
-        <h2 class="section-title">YouTube Channel</h2>
+        <h2 class="section-title">My social meadia</h2>
 
-        <div class="youtube-box">
-            <h3>▶ THE GUJARATI CODER</h3>
-            <p>
-                Coding, technology, computer tips, education,
-                DIY projects and vlogging.
-            </p>
-            <a href="https://www.youtube.com/@GujaratiCoding" target="_blank"
-               rel="noopener noreferrer" class="btn">
-                Visit My Channel
-            </a>
-        </div>
-        <h2 class="section-title">WhatsApp</h2>
+        <div class="card-grid">
+            <div class="whatsapp-box">
+                <i class="fab fa-whatsapp" style="color: green;"></i>
+                <h3>GUJARATI CODER</h3>
+                <p>
+                    FOLLOW NOW
+                </p>
+                <a href="https://whatsapp.com/channel/0029VbDJeKIFsn0XtlOFhk0M" target="_blank"
+                rel="noopener norefeffer" class="btn">Follow My channel</a>
+                
+            </div>
 
-        <div class="youtube-box">
-            <h3>THE GUJARATI CODER</h3>
-            <p>
-                You can easily find all the important links and updates on my WhatsApp Channel.
-            </p>
-            <a href="https://whatsapp.com/channel/0029VbDJeKIFsn0XtlOFhk0M" target="_blank"
-               rel="noopener noreferrer" class="btn">
-                Join My Channel
-            </a>
+            <div class="youtube-box">
+                <i class="fab fa-youtube" style="color: red;"></i>
+                <h3>GUJARATI CODER</h3>
+                <p>
+                    Coding, technology, computer tips, education,
+                    DIY projects and vlogging.
+                </p>
+                <a href="https://www.youtube.com/@GujaratiCoding" target="_blank"
+                rel="noopener noreferrer" class="btn">Visit my channel</a>
+                
+
+            </div>           
         </div>
-    </section>
+       
+    </section>   
 
     <!-- Contact -->
     <section class="section light-section" id="contact">
