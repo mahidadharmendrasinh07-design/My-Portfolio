@@ -272,7 +272,16 @@ header {
     text-decoration: none;
 }
 
+/* YouTube */
+.youtube-box h3 {
+    font-size: 25px;
+    margin-bottom: 12px;
+}
 
+.youtube-box p {
+    color: var(--text);
+    margin-bottom: 20px;
+}
 
 /* Contact */
 .contact-form {
@@ -337,19 +346,6 @@ header {
 .fa-github {
     color: black;
     font-size: 30px;
-}
-
-.fa-instagram:hover {
-    color: #eb0d80;
-}
-
-
-.fa-youtube:hover {
-    color: red;
-}
-
-.fa-github:hover {
-    color: #000000;
 }
 
 .social-links a {
